@@ -14,3 +14,8 @@ My name is Gustavo and I am a front-end developer from Jandira, São Paulo. I en
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D)
+
+ <br>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guh-oliveira&show_icons=true)
+
