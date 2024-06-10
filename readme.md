@@ -2,6 +2,21 @@
 <img src="https://komarev.com/ghpvc/?username=guh-oliveira&color=yellow" alt="Profile views" /> 
 
 My name is Gustavo and I am a front-end developer from Jandira, São Paulo. I enjoy programming and I can notice a constant evolution through my studies. My main goal is to help those in need by doing what I love. Currently, I am studying Analysis and Systems Development at [UNINTER](https://www.instagram.com/grupouninter?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
+<br>
+
+### You can also find me here 👇
+
+<div>
+<a href="https://instagram.com/julianacondea" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/julianaconde/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+
+</div>
+<br>
 
 # Tech Stack
 
