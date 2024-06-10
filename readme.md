@@ -7,11 +7,12 @@ My name is Gustavo and I am a front-end developer from Jandira, São Paulo. I en
 ### You can also find me here 👇
 
 <div>
-<a href="https://instagram.com/julianacondea" target="_blank">
+<a href="https://www.instagram.com/_gu.sfx/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-<a href="https://www.linkedin.com/in/julianaconde/" target="_blank">
+<br><br>
+ 
+<a href="https://www.linkedin.com/in/guholiveira" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
