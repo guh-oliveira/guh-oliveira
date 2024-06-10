@@ -1,7 +1,7 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 <img src="https://komarev.com/ghpvc/?username=guh-oliveira&color=yellow" alt="Profile views" /> 
 
-My name is Gustavo and I am a front-end developer from Jandira, São Paulo. I enjoy programming and I can notice a constant evolution through my studies. My main goal is to help those in need by doing what I love. Currently, I am studying Analysis and Systems Development at UNINTER.
+My name is Gustavo and I am a front-end developer from Jandira, São Paulo. I enjoy programming and I can notice a constant evolution through my studies. My main goal is to help those in need by doing what I love. Currently, I am studying Analysis and Systems Development at [UNINTER](https://www.instagram.com/grupouninter?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
 
 # Tech Stack
 
